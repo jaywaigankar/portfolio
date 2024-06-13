@@ -1,0 +1,75 @@
+/* Contact.module.css */
+.container {
+  padding: 40px;
+  background-color: #2bc8ec;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+.text {
+  margin-bottom: 50px;
+}
+
+.toggleButton {
+  background: #ffffff;
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.toggleButton:hover {
+  background: #ffffff;
+}
+
+.formContainer {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.formGroup {
+  margin-bottom: 15px;
+}
+
+.formGroup label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.formGroup input,
+.formGroup textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: transparent;
+  color: rgb(9, 1, 1);
+}
+
+.links {
+  list-style: none;
+  padding: 0;
+}
+
+.link {
+  margin: 10px 0;
+}
+
+.link a {
+  color: #040708;
+  text-decoration: none;
+}
+
+.link a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
