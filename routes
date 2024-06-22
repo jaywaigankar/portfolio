@@ -1,0 +1,10 @@
+const express = require('express');
+const router = express.Router();
+
+// Contact Form Submission Route
+router.post('/', (req, res) => {
+  // Implement form submission logic here if needed
+  res.send('Form submission received!');
+});
+
+module.exports = router;
